@@ -35,3 +35,4 @@ Open Your Web Browser
 Put/type inside the web browser : “localhost/project folder/Admin”
 Admin User : admin
 Admin Password : admin
+                 ...............
